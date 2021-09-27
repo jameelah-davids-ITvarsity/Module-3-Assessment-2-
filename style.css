@@ -206,7 +206,7 @@ margin-bottom:10px;
 
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 2000px) {
     .body-home{
         background-image: url('images/background-01-land.png');
     }
